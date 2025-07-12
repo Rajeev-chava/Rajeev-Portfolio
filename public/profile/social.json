@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/chavarajeev"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Rajeev-chava/"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:22jr5a1207@gmail.com"
+        }
+    ]
+}

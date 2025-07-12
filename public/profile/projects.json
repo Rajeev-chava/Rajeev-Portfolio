@@ -1,0 +1,111 @@
+{
+    "projects": [
+        {
+            "image": "images/projects/portfolio-poster.png",
+            "title": " Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Rajeev-chava/Rajeev-Portfolio"
+                }
+            ],
+            "tags": [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image": "images/projects/skill craft dashboard.png",
+            "title": "Skill-Craft AI: Rehearse, Refine, Achieve—With AI",
+            "bodyText": "- A web app built using Flask for interview preparation based on job roles.\n - Integrated AI-generated questions and a real-time Python code visualizer.\n - Built with HTML, CSS, JavaScript, and SQLite for cross-platform support.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "#"
+                },
+                {
+                    "text": "Live",
+                    "href": "#"
+                }
+            ],
+            "tags": [
+                "Flask",
+                "Python",
+                "AI",
+                "Code Runner",
+                "SQLite",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "image": "images/projects/Jurify img.jpg",
+            "title": "Jurify – Lawyer Personalized Appointment Management System",
+            "bodyText": "- A lawyer appointment and case management system built using React.js, Node.js, and Express.js.\n - Integrated a chatbot for legal assistance and streamlined appointment booking.\n - Developed with Tailwind CSS, JavaScript, and connected via REST APIs for full-stack functionality.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Rajeev-chava/Jurify-Lawyer"
+                },
+                {
+                    "text": "Live",
+                    "href": "#"
+                }
+            ],
+            "tags": [
+                "React.js",
+                "Node.js",
+                "Express.js",
+                "Tailwind CSS",
+                "Chatbot",
+                "Full-Stack",
+                "Hackathon"
+            ]
+        },
+        {
+            "title": "Basic Calculator",
+            "bodyText": "- Built a responsive calculator interface using HTML and CSS, optimized for both desktop and mobile screens.\n -  Implemented core arithmetic operations ( +, −, ×, ÷ ) using JavaScript logic.\n - Added dark mode toggle, interactive button animations, and keyboard input support for better usability.\n - Displays calculation history with an option to clear history for user convenience.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Rajeev-chava/Basic-Calculator"
+                },
+                 {
+                    "text": "Live",
+                    "href": "https://rajeev-chava.github.io/Basic-Calculator/"
+                }
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Responsive Design",
+                "Dark Mode"
+            ]
+        },
+        {
+            "title": "To-Do-List",
+            "bodyText": "- Built a responsive and theme-switchable To-Do List using HTML, CSS, and JavaScript, featuring smooth animations and clean UI.\n - Implemented localStorage to persist tasks across sessions without any backend.\n - Designed a fully front-end application with multiple themes (Standard, Light, Darker) and mobile-friendly layout.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Rajeev-chava/To-Do-List"
+                },
+                 {
+                    "text": "Live",
+                    "href": "https://rajeev-chava.github.io/To-Do-List/"
+                }
+            ],
+            "tags": [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "LocalStorage",
+                "Responsive Design"
+            ]
+        }
+    ]
+}

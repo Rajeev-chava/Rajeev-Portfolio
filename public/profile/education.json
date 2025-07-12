@@ -1,0 +1,34 @@
+{
+  "education": [
+    {
+      "title": "Sept 2022 - May 2025",
+      "cardTitle": "B.Tech, Information Technology",
+      "cardSubtitle": "KKR & KSR Institute of Technology & Sciences, Guntur",
+      "cardDetailedText": "CGPA - 8.80",
+      "icon": {
+        "src": "images/education/kits round.png",
+        "alt": "B.Tech"
+      }
+    },
+    {
+      "title": "2019 - 2022",
+      "cardTitle": "Diploma, Mechanical Engineering",
+      "cardSubtitle": "Sai Tirumala NVR Engineering College, Narasaraopet",
+      "cardDetailedText": "Percentage - 85.05%",
+      "icon": {
+        "src": "images/education/sten round.png",
+        "alt": "Diploma"
+      }
+    },
+    {
+      "title": "April 2019",
+      "cardTitle": "High School",
+      "cardSubtitle": "Narayana High School, Narasaraopet",
+      "cardDetailedText": "GPA - 10",
+      "icon": {
+        "src": "images/education/narayana.png",
+        "alt": "High School"
+      }
+    }
+  ]
+}

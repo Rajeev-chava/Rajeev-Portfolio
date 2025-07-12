@@ -1,0 +1,40 @@
+{
+    "logo" : {
+        "source": "images/Rajeev logo.jpg",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+        {
+            "title": "Experience",
+            "href": "/experience"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/file/d/1pIv5QXN9W63uegzk1ovtpNh5TwFdasQ9/view?usp=drivesdk",
+            "type": "link"
+        }
+    ]
+
+}
+

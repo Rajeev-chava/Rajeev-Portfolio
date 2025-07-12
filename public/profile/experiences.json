@@ -1,0 +1,37 @@
+{
+    "experiences": [
+        {
+            "title": "Generative AI",
+            "subtitle": "AICTE Eduskills",
+            "workType": "Internship",
+            "workDescription": [
+                "Built AI-driven applications using Python and integrated Gen-AI models for intelligent outputs.",
+                "Explored use cases like text generation, prompt engineering, and AI-enhanced user interactions.",
+                "Gained hands-on experience with Gen-AI tools and frameworks under AICTE-certified training."
+            ],
+            "dateText": "07/2024 – 09/2024"
+        },
+        {
+            "title": "AI/ML",
+            "subtitle": "BlackBucks",
+            "workType": "Internship",
+            "workDescription": [
+                "Contributed to AI/ML solutions development during the internship program.",
+                "Implemented and integrated multiple AI-based modules into existing platforms.",
+                "Worked on real-world datasets and enhanced model performance and speed."
+            ],
+            "dateText": "06/2024 – 08/2024"
+        },
+        {
+            "title": "IOT",
+            "subtitle": "MakeSkilled",
+            "workType": "Internship",
+            "workDescription": [
+                "Designed and implemented a smoke chain detection system using IoT sensors.",
+                "Enabled real-time monitoring and alerting for fire and smoke incidents.",
+                "Worked on hardware-software integration for accurate sensor data processing."
+            ],
+            "dateText": "03/2023 – 07/2023"
+        }
+    ]
+}
