@@ -1,6 +1,6 @@
 # Rajeev Portfolio  
-
-## A personalized developer portfolio built with React!
+A personalized developer portfolio built with React and Bootstrap, designed to showcase your projects and skills.
+---
 
 ## Features
 
