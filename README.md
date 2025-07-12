@@ -1,23 +1,19 @@
-# Rajeev Portfolio  [![GitHub](https://img.shields.io/github/license/Rajeev-chava/Rajeev-Portfolio?color=blue)](https://github.com/Rajeev-chava/Rajeev-Portfolio/blob/master/LICENSE.md) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rajeev-chava.Rajeev-Portfolio\&color=blue)
+# Rajeev Portfolio  
 
 ## A personalized developer portfolio built with React!
 
-<h2 align="center">
-  <img src="images/projects/portfolio-poster.png" alt="Rajeev Portfolio" />
-  <br>
-</h2>
-
 ## Features
 
-⚡️ Clean UI with dark/light mode toggle
-⚡️ Built with React + Bootstrap
-⚡️ Fully Responsive
-⚡️ Easy to Customize (JSON powered)
-⚡️ Project section with tags, links, and preview
+- Clean UI with dark/light mode toggle
+- Built with React + Bootstrap
+- Fully Responsive
+- Easy to Customize (JSON powered)
+- Project section with tags, links, and preview
 
-## Demo
 
-**[Click here to view the live demo](https://rajeev-portfolio.vercel.app)**
+---
+🌐 **Live Demo**: [Click Here](https://rajeev-portfolio-nine.vercel.app/)
+---
 
 ## Why a Portfolio? ☝️
 
