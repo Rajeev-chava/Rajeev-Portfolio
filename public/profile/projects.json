@@ -8,6 +8,10 @@
                 {
                     "text": "GitHub",
                     "href": "https://github.com/Rajeev-chava/Rajeev-Portfolio"
+                },
+                 {
+                    "text": "Live",
+                    "href": "https://rajeev-portfolio-nine.vercel.app/"
                 }
             ],
             "tags": [
@@ -23,11 +27,11 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "#"
+                    "href": "https://github.com/Rajeev-chava/Ai-Interviewer"
                 },
                 {
                     "text": "Live",
-                    "href": "#"
+                    "href": "https://ai-interviewer-igiv.onrender.com"
                 }
             ],
             "tags": [
@@ -52,7 +56,7 @@
                 },
                 {
                     "text": "Live",
-                    "href": "#"
+                    "href": "https://jurify-lawyer.vercel.app/"
                 }
             ],
             "tags": [
