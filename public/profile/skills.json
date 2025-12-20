@@ -5,10 +5,6 @@
       "title": "Languages & Databases",
       "items": [
         {
-          "icon": "images/skills/c.png",
-          "title": "C"
-        },
-        {
           "icon": "images/skills/python.png",
           "title": "Python"
         },
@@ -28,23 +24,6 @@
         {
           "icon": "images/skills/css.png",
           "title": "CSS"
-        }
-      ]
-    },
-    {
-      "title": "Platforms & Tools",
-      "items": [
-        {
-          "icon": "images/skills/visual-studio.webp",
-          "title": "Visual Studio"
-        },
-         {
-          "icon": "images/skills/git hub.jpg",
-          "title": "Git Hub"
-        },
-        {
-          "icon": "images/skills/git.png",
-          "title": "Git"
         }
       ]
     }
